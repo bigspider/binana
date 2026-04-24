@@ -23,6 +23,7 @@ BIN-2024-0001.003 would become BIN24-1.3.
 | BIN-2024-0005 | Complete   | [Bitcoin Related Specifications](2024/BIN-2024-0005.md)
 | BIN-2025-0001 | Draft      | [Consensus Cleanup](2025/BIN-2025-0001.md)
 | BIN-2025-0002 | Draft      | [Sharing Block Templates with Peers](2025/BIN-2025-0002.md)
+| BIN-2026-0001 | Draft      | [`OP_TEMPLATEHASH`](2026/BIN-2026-0001.md)
 
 ## Notes
 
