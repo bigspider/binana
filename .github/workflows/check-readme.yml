@@ -1,0 +1,10 @@
+name: Check README
+on: [push, pull_request]
+
+jobs:
+  check-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify README lists all BIN files
+        run: python3 scripts/check-readme.py
